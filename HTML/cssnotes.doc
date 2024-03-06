@@ -1,0 +1,27 @@
+CSS:--- cascading style sheets
+for styling the webpages and layout for the webpages;
+
+Three types of styles:--
+1) Inline-style :--- style(attribute)(body)
+2)Internal-style :-- style Element(Head section)
+3)External-style (Highly reccomended):we need to link b/w html and css 
+
+Selectors:---
+1)class selector :-- (.head )
+2)Id Selector :-- (#desv)
+3)Element Selector:-- (h3)
+4)Universal Selector:-- (*) 
+5)Group Selector :--- (h1,div,p)
+
+Box-Model (Height and Width  When we take total (height or Width) it includes both padding and border)
+Box-sizing - content-box(default)
+Box-sizing - border-box
+
+Background-Image:
+Lists:--(list-style-type:square,circle etc)
+Display:--- (block,inline)
+navbar
+span Tag (Inline Element)
+Positioning :--- (Default(static), Relative,Fixed, Absolute and sticky)
+Difference between % and px :--
+The px belongs to the absolute category of length units whereas the  and %(percentage) refers to the relative class of sizing units. The value of px is fixed over the HTML document but the and %(percentage) depends on the unit used by the parent element. The (%)percentage unit primarily refers to changing the height/width of an HTML element(according to the parent element).
